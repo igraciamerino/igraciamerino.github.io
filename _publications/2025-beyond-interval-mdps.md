@@ -2,6 +2,7 @@
 title: "Beyond Interval MDPs: Tight and Efficient Abstractions of Stochastic Systems"
 collection: publications
 category: journal
+permalink: /publication/2025-beyond-interval-mdps
 date: 2025-01-01
 authors: "I. Gracia and M. Lahijanian"
 venue: "Automatica (provisionally accepted)"
