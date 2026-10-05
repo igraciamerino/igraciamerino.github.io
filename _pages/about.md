@@ -1,13 +1,47 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+---
+permalink: /
+title: "About"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
+I am a PhD Student in Aerospace Engineering Sciences at the University of Colorado Boulder, with a focus on Autonomous Systems. I work on formal methods, control, and verification of autonomous systems.
+
+My research aims to develop mathematically rigorous tools for designing autonomous and robotic systems that are both **safe and performant**. I am particularly interested in formal guarantees for systems operating under uncertainty, with applications to autonomous and robotic systems.
+
+My research interests include **Safe autonomy, formal methods, control theory, robotics, stochastic systems and motion planning**.
+
+I am currently working with Prof. [Morteza Lahijanian](https://scholar.google.com/citations?user=BfH-7msAAAAJ&hl=en&oi=ao) at the University of Colorado Boulder.
+
+## Research
+
+My research develops formal methods and control-theoretic approaches for the analysis and design of autonomous and robotic systems. My recent work has focused on:
+
+- **Formal control and verification of stochastic systems**
+- **Data-driven methods for uncertain dynamical systems**
+- **UMDP abstraction-based control for stochastic systems**
+- **Asymptotic optimality of UMDP abstraction-based control and verification approaches**
+- **Motion planning for high-dimensional robotic systems**
+
+For more information, see my [Research](/research/) and [Publications](/publications/) pages.
+
+## News
+
+**2026**  
+My website is currently under development. More research updates, publications, and talks will be added soon.
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
@@ -53,4 +87,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
