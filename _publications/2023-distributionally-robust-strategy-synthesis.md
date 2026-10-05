@@ -1,5 +1,7 @@
 ---
 title: "Distributionally Robust Strategy Synthesis for Switched Stochastic Systems"
+authors: "I. Gracia, D. Boskos, L. Laurenti, and M. Mazo Jr."
+award: "Best Paper Award"
 collection: publications
 category: conference
 permalink: /publication/2023-distributionally-robust-strategy-synthesis

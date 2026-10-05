@@ -5,28 +5,28 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% if site.author.googlescholar %}
+  <p class="publication-scholar-link">
+    A complete publication record is available on
+    <a href="{{ site.author.googlescholar }}">Google Scholar</a>.
+  </p>
+{% endif %}
+
 {% include base_path %}
 
-## Journal Publications
+{% for category in site.publication_category %}
+  {% assign title_shown = false %}
 
-{% for post in site.publications reversed %}
-  {% if post.category == "journal" %}
+  {% for post in site.publications reversed %}
+    {% if post.category != category[0] %}
+      {% continue %}
+    {% endif %}
+
+    {% unless title_shown %}
+      <h2>{{ category[1].title }}</h2>
+      {% assign title_shown = true %}
+    {% endunless %}
+
     {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
-## Conference Publications
-
-{% for post in site.publications reversed %}
-  {% if post.category == "conference" %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
-## Manuscripts Under Review
-
-{% for post in site.publications reversed %}
-  {% if post.category == "under-review" %}
-    {% include archive-single.html %}
-  {% endif %}
+  {% endfor %}
 {% endfor %}
