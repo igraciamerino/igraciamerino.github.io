@@ -24,13 +24,33 @@ repository               : "igraciamerino/igraciamerino.github.io"
 author:
   avatar           : "profile.png"
   name             : "Ibon Gracia"
-  pronouns         : "He/Him"
+  pronouns         :
   bio              : "PhD Candidate in Aerospace Engineering Sciences (Autonomous Systems)"
   location         : "Boulder, CO, USA"
   employer         : "University of Colorado Boulder"
   uri              :
-  email            : "ibon.gracia@colorado.edu" 
+  email            : "ibon.gracia@colorado.edu"
 
+  # Academic websites
+  academia         :
+  arxiv            :
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  inspire-hep      :
+  impactstory      :
+  orcid            :
+  semantic         :
+  ssrn             :
+  pubmed           :
+  researchgate     :
+  scopus           :
+  zotero           :
+
+  # Repositories and software development
+  github           : "igraciamerino"
+
+  # Social media
+  bluesky          :
+  linkedin         :
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
