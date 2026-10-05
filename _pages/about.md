@@ -7,15 +7,6 @@ redirect_from:
   - /about.html
 ---
 
----
-permalink: /
-title: "About"
-author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
----
-
 I am a PhD Student in Aerospace Engineering Sciences at the University of Colorado Boulder, with a focus on Autonomous Systems. I work on formal methods, control, and verification of autonomous systems.
 
 My research aims to develop mathematically rigorous tools for designing autonomous and robotic systems that are both **safe and performant**. I am particularly interested in formal guarantees for systems operating under uncertainty, with applications to autonomous and robotic systems.
