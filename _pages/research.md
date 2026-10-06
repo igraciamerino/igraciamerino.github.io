@@ -6,7 +6,7 @@ author_profile: true
 
 My research focuses on the development of formal methods and control-theoretic tools for the analysis, design, and verification of autonomous systems.
 
-My broader goal is to enable autonomous and robotic systems that are both **safe and capable**, providing rigorous guarantees while retaining the computational efficiency required for practical applications.
+My broader goal is to enable autonomous and robotic systems that are both **safe and assured**, providing rigorous guarantees while retaining the computational efficiency required for practical applications.
 
 ## Research Areas
 
