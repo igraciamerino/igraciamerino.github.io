@@ -10,6 +10,4 @@ paperurl: "https://arxiv.org/abs/2507.02213"
 citation: "I. Gracia and M. Lahijanian, \"Beyond Interval MDPs: Tight and Efficient Abstractions of Stochastic Systems,\" provisionally accepted in Automatica, 2025."
 ---
 
-We introduce tight and computationally efficient abstractions of stochastic systems that go beyond conventional interval Markov decision processes.
-
 [Paper](https://arxiv.org/abs/2507.02213)
